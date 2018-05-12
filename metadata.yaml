@@ -1,0 +1,31 @@
+_repo: Up-in-Ardmuirland_17453
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barrett, Michael
+    birthdate: 1848
+    gutenberg_agent_id: '7397'
+    url: http://www.gutenberg.org/2009/agents/7397
+description: ''
+gutenberg_issued: '2006-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Catholics -- Fiction'
+- !lcsh 'Scotland -- Fiction'
+- !lcsh 'Villages -- Fiction'
+- !lcsh 'Short stories'
+tableOfContents: Personal -- Memories -- Archie -- Golden dreams -- "Dominie Dick"
+  -- Bildy -- Smugglers -- Phenomena -- Spring's return -- A rustic pastor -- A sprig
+  of shamrock -- Penny.
+title: Up in Ardmuirland
+url: http://www.gutenberg.org/ebooks/17453
