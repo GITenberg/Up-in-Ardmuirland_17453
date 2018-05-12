@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '7397'
     url: http://www.gutenberg.org/2009/agents/7397
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17453#Up-in-Ardmuirland
 gutenberg_issued: '2006-01-04'
 gutenberg_type: Text
 identifiers:
